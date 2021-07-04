@@ -1,2 +1,2 @@
-a = "soy ariel"
+let nombre = "soy ariel"
 let hola = "hola muchachos"
