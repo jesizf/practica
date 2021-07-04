@@ -1,1 +1,1 @@
-let series= ["breaking bad","Malcom"]
+let series= [" fuiste","chau"]
