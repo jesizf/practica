@@ -1,1 +1,3 @@
-let miNombre ="juan cabrera";
+let miNombre = "Juan"
+let edad = 22
+let nacionalidad = "Argentina"
