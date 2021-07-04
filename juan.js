@@ -1,2 +1,3 @@
-var peliculasPiolas = ["Titanic", "300", "Troya", "Tu vieja en tanga"]
-let miNombre = "Ernesto Sanchez capo"
+let miNombre = "Juan"
+let edad = 22
+let nacionalidad = "Argentina"
